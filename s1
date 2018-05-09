@@ -1,11 +1,11 @@
 master_ip: 10.0.1.1
 vlans :
-       pink:
-	 id: 10
        blue:
-         id: 10 
-       green:
-         id: 30
+       id: 10 
+     purple:
+       id: 20
+      green:
+       id: 30
 ports :
     1 : [10]
     3 : [10,20]
