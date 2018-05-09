@@ -1,13 +1,12 @@
 master_ip: 10.0.0.1
 vlans :
-	red:
+       pink:
 	 id: 10
        blue:
-         id: 20
+         id: 10 
        green:
          id: 30
 ports :
     1 : [10]
-    2 : [20]
     3 : [10,20]
 add ip :172.0.0.0
