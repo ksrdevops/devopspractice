@@ -1,8 +1,8 @@
 master_ip: 10.0.0.1
 vlans :
-	red:
+       pink:
 	 id: 10
-       blue:
+       purple:
          id: 20
        green:
          id: 30
